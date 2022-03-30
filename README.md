@@ -3,7 +3,7 @@
 
 :computer: Desenvolvedor aprendiz!
 
-:house_with_garden: Sou do Brazil.
+:house_with_garden: Sou do Brasil.
 
 :books: Atualmente estou aprendendo tudo.
 
