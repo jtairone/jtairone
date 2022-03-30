@@ -31,7 +31,8 @@
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtairone&show_icons=true&theme=dark)
 
-
+![tazmania](https://user-images.githubusercontent.com/12955437/160850777-761b1a23-7323-43c0-8f25-a1facd71d788.gif)
+![tazmania_computer](https://user-images.githubusercontent.com/12955437/160852678-d0111251-ef96-4538-9c94-db69b98fef30.gif)
 
 <!-- ### About me
 I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
