@@ -1,7 +1,7 @@
 ## Olá, sou Tairone Morais!
 
 
-:computer: Back-End Developer!
+:computer: Desenvolvedor aprendiz!
 
 :house_with_garden: Sou do Brazil.
 
