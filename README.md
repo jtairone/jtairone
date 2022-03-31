@@ -6,7 +6,7 @@
 :house_with_garden: Sou do Brasil.
 
 :books: Sempre tentando aprender um pouco mais.
-
+##
 <!-- :outbox_tray: 2021 Goals: create a new project and find a new job. -->
 
 [![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
@@ -23,10 +23,10 @@
 [![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.oracle.com/br/database/technologies/)
 [![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
-
+##
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jtairone)](https://github.com/jtairone)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taironemorais/)](https://www.linkedin.com/in/taironemorais/)
-
+##
 <!-- [![jtairone GitHub stats](https://github-readme-stats.vercel.app/api?username=jtairone&show_icons=true&theme=dark)](https://github.com/jtairone/github-readme-stats)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtairone&show_icons=true&theme=dark)
