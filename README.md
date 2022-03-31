@@ -38,8 +38,8 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/12955437/160850777-761b1a23-7323-43c0-8f25-a1facd71d788.gif"/>
-  <img src="https://user-images.githubusercontent.com/12955437/160852678-d0111251-ef96-4538-9c94-db69b98fef30.gif"/>
+  <img height="180em" src="https://user-images.githubusercontent.com/12955437/160850777-761b1a23-7323-43c0-8f25-a1facd71d788.gif"/>
+  <img height="180em" src="https://user-images.githubusercontent.com/12955437/160852678-d0111251-ef96-4538-9c94-db69b98fef30.gif"/>
 </div>
   
 <!-- ### About me
