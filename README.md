@@ -27,13 +27,21 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jtairone)](https://github.com/jtairone)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taironemorais/)](https://www.linkedin.com/in/taironemorais/)
 
-[![jtairone GitHub stats](https://github-readme-stats.vercel.app/api?username=jtairone&show_icons=true&theme=dark)](https://github.com/jtairone/github-readme-stats)
+<!-- [![jtairone GitHub stats](https://github-readme-stats.vercel.app/api?username=jtairone&show_icons=true&theme=dark)](https://github.com/jtairone/github-readme-stats)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtairone&show_icons=true&theme=dark)
+-->
+<div align="center">
+  <a href="https://github.com/jtairone">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jtairone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtairone&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-![tazmania](https://user-images.githubusercontent.com/12955437/160850777-761b1a23-7323-43c0-8f25-a1facd71d788.gif)
-![tazmania_computer](https://user-images.githubusercontent.com/12955437/160852678-d0111251-ef96-4538-9c94-db69b98fef30.gif)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/12955437/160850777-761b1a23-7323-43c0-8f25-a1facd71d788.gif"/>
+  <img src="https://user-images.githubusercontent.com/12955437/160852678-d0111251-ef96-4538-9c94-db69b98fef30.gif"/>
+</div>
+  
 <!-- ### About me
 I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
 
