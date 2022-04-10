@@ -1,5 +1,4 @@
-## Olá, sou Tairone Morais! <!--[![GitHub stats](https://github-profile-trophy.vercel.app/?username={jtairone})] -->
-
+# Olá, sou Tairone Morais!
 
 :computer: Desenvolvedor aprendiz!
 
@@ -7,7 +6,6 @@
 
 :books: Sempre tentando aprender um pouco mais.
 ##
-<!-- :outbox_tray: 2021 Goals: create a new project and find a new job. -->
 
 [![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -24,13 +22,10 @@
 [![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
 ##
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jtairone)](https://github.com/jtairone)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jtairone)](https://github.com/jtairone) &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taironemorais/)](https://www.linkedin.com/in/taironemorais/)
 ##
-<!-- [![jtairone GitHub stats](https://github-readme-stats.vercel.app/api?username=jtairone&show_icons=true&theme=dark)](https://github.com/jtairone/github-readme-stats)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtairone&show_icons=true&theme=dark)
--->
+
 <div align="center">
   <a href="https://github.com/jtairone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jtairone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -43,10 +38,3 @@
 </div>
   
 ![Snake animation](https://github.com/jtairone/jtairone/blob/output/github-contribution-grid-snake.svg)
-  
-<!-- ### About me
-I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
-
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it. -->
