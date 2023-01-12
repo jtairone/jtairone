@@ -21,10 +21,11 @@
 [![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.oracle.com/br/database/technologies/)
 [![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
+/*
 ##
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jtairone)](https://github.com/jtairone) &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taironemorais/)](https://www.linkedin.com/in/taironemorais/)
-##
+## */
 
 <div align="center">
   <a href="https://github.com/jtairone">
