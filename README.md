@@ -1,6 +1,6 @@
 # Olá, sou Tairone Morais!
 
-:computer: Desenvolvedor aprendiz!
+:computer: Desenvolvedor Júnior!
 
 :house_with_garden: Sou do Brasil.
 
